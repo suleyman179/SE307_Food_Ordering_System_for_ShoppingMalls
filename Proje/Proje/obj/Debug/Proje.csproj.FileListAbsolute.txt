@@ -1,0 +1,16 @@
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.burgerkingUC.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.KFC.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.Dominos.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.McDonalds.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.Subway.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.homepage.resources
+C:\Users\yunis\Desktop\Okul\SE307\Project\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
